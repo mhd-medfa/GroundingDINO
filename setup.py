@@ -192,8 +192,8 @@ if __name__ == "__main__":
     setup(
         name="groundingdino",
         version="0.1.0",
-        author="International Digital Economy Academy, Shilong Liu",
-        url="https://github.com/IDEA-Research/GroundingDINO",
+        author="International Digital Economy Academy, Shilong Liu. Edited by Mohamad Al Mdfaa (mlengineer.me)",
+        url="https://github.com/mhd-medfa/GroundingDINO",
         description="open-set object detector",
         license=license,
         install_requires=parse_requirements("requirements.txt"),
